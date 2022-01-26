@@ -19,23 +19,23 @@ A device
 ### Getting Started:
 First goto this [url](https://replit.com/@faizannoushad/Poketwo-Autocatcher)
 
-#### <b>Froking the repl</b>
-<p><img src="https://i.imgur.com/cEpFWuF.png" width="496px height=" /></br>Once you have opened the link click on the fork icon</p>
+#### <b>Forking the repl</b>
+Once you have opened the link click on the fork icon</p><img src="https://i.imgur.com/cEpFWuF.png" width="496px height=" /></p>
 You will then be prompted with a sign in message.Create an account if you dont have one else login.</br>
 
-#### <b>Setting up the bot</b>
-Click on console.</br>
-<img src="https://i.imgur.com/1Kh7oif.png" width="496px height=" /></br>
-After you've done the above, simply run the following command to start up your very own Pokétwo Autocatcher.</br>
+#### Setting up the bot:
+Click on console</p>
+<img src="https://i.imgur.com/1Kh7oif.png" width="496px height=" /></p>
+After you've done the above, simply run the following command to start up your very own Pokétwo Autocatcher.</p>
 
 The command may vary depending on your operating system, so try:
 ```
 python3 setup.py
 ```
-<p>You will be asked to enter a token</br>
+<p>You will be asked to enter a token</p>
 Enter the token by following this:
 
-#### Getting your token:
+#### <b>Getting your token</b>
 This will allow the code to send messages from your account.It is advised to use a fresh new account for this purpose as this is risky and you might get banned.</p>
 If you are a mobile user follow this [tutorial](https://www.youtube.com/watch?v=eMCSxtA4Vts)</p>
 Else follow [this tutorial](https://www.youtube.com/watch?v=YEgFvgg7ZPI)</p>
@@ -43,16 +43,22 @@ Once you've got your discord token enter it in the console without the double qu
 For example: O.ajewef.ewgtrgt.323e3r</p>
 You will then be asked to enter channel id.This is simply to specify which channel you want to autocatch
 
-#### Getting your channel id:
+#### <b>Getting your channel id</b>
 Make sure u have a server created with the poketwo bot added, and a channel for catching</p>
 Mobile users follow [this guide](https://www.youtube.com/watch?v=LCHxuobBmpQ) for getting channel id</p>
 Others follow [this](https://www.youtube.com/watch?v=YjiQ7CajAgg)</p>
 Paste the channel id too into the console.And done you have completed setting up the bot
 
+#### Running the code
+Click on the run button,which may either look like this on mobile</p>
+<img src="https://i.imgur.com/IMQF45D.png" width="77px height=" /></p>
+Or like this</p>
+<img src="https://i.imgur.com/wrtzrnS.png" width="127px height=" /></p>
+And done, now you have it running
 > Remember,if you need any help with something, feel free to open a Github Issue.
 
-### Auto-levelling
-To enable auto-levelling, just put in the ID's of the Pokémon you want to be levelled up into the `level.txt` text file.
+### Making it run 24/7
+Goto https://uptimerobot.com/ and create an account
 
 <h3 style="color:#f76767;">⚠️<b>Disclaimer</b>⚠️</h3> 
 Please note that self botting is against Discord's Terms of Service and being discovered <br> 
