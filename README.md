@@ -20,8 +20,8 @@ A device
 First goto this [url](https://replit.com/@faizannoushad/Poketwo-Autocatcher)
 
 #### <b>Running the bot</b>
-Once you have opened the link click on the fork icon
 <img src ="https://i.imgur.com/cEpFWuF.png" width = "496px height="66px">
+Once you have opened the link click on the fork icon </br>
 
 #### <b>user_token</b>:
 Paste in your discord account's user token. You can find instructions on this [here](https://www.youtube.com/watch?v=3W9tAEsK7RM) <br>
