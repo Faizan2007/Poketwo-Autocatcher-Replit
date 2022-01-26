@@ -20,7 +20,7 @@ A device
 First goto this [url](https://replit.com/@faizannoushad/Poketwo-Autocatcher)
 
 #### <b>Running the bot</b>
-<img src ="https://i.imgur.com/cEpFWuF.png" width = "496px height="66px">
+<img src ="https://i.imgur.com/cEpFWuF.png" align="left" width = "496px height="66px">
 Once you have opened the link click on the fork icon </br>
 
 #### <b>user_token</b>:
