@@ -13,9 +13,6 @@ The bot has the following features:
 - 💕 **Trustworthy**; this autocatcher is **completely** open-source (meaning you can see the latest code)
 - 📜 Support for all Pokémon from generation I to generation VIII, including Alolan and Galarian Pokémon
 
-### Requirements
-A device
-
 ### Getting Started:
 First goto this [url](https://replit.com/@faizannoushad/Poketwo-Autocatcher)
 
@@ -60,7 +57,29 @@ And done, now you have it running
 > Remember,if you need any help with something, feel free to open a Github Issue.
 
 ### Making it run 24/7
-Goto https://uptimerobot.com/ and create an account
+Goto https://uptimerobot.com/ and create an account</p>
+Then click "Create Monitor"</p>
+<img src="https://i.imgur.com/xKmFaTL.png" width="158px height=" /></p>
+From the dropdown list select HTTPS</p>
+<img src="https://i.imgur.com/ZZq0oij.png" width="435px height=" /></p>
+Then give it a name under friendly name</p>
+Go back to repl and run your file</p>
+Click on the web button on mobile</p>
+<img src="https://i.imgur.com/nTn6Mxf.png" width="370px height=" /></p>
+If you're on any other device when you click run a window that looks like this will popup</p>
+<img src="https://i.imgur.com/LXX019x.png" width="360px height=" /></p>
+And copy the url from the address bar, if on mobile or on any other device.</p>
+Go back to https://uptimerobot.com/</p>
+And paste the url you copied here:</p>
+<img src="https://i.imgur.com/0N8UiQc.png" width="513px height=" /></p>
+Now click create monitor
+<img src="https://i.imgur.com/XhQfuN5.png" width="145px height=" /></p>
+<b>Congrats, you're all done
+> If the bot stops working goto https://replit.com/repls and open the autocatcher stop it by clciking this button on mobile</p>
+<img src="https://i.imgur.com/pkScV23.png" width="85px height=" /></p>
+And this on all other devices</p>
+<img src="https://i.imgur.com/m7JDS2W.png" width="190px height=" /></p>
+Now click run again and you're good to go
 
 <h3 style="color:#f76767;">⚠️<b>Disclaimer</b>⚠️</h3> 
 Please note that self botting is against Discord's Terms of Service and being discovered <br> 
