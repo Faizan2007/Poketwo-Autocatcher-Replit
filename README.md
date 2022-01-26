@@ -14,18 +14,14 @@ The bot has the following features:
 - 📜 Support for all Pokémon from generation I to generation VIII, including Alolan and Galarian Pokémon
 
 ### Requirements
-Please note that this autocatcher requires Python 3.8 installed. Python 3.9 won't work with Discord.
+A device
 
 ### Getting Started:
-To start up the bot for the first time, please install the required dependencies first:
-```
-python -m pip install -U git+https://github.com/Merubokkusu/Discord-S.C.U.M.git
-```
-> Remember to modify the command to your installed one if necessary. <br>
-> However, this command should work in most cases.
+First goto this [url](https://replit.com/@faizannoushad/Poketwo-Autocatcher)
 
 #### <b>Running the bot</b>
-Once you have installed the correct dependencies, run the `setup.py` file and enter in the following fields when asked.
+Once you have opened the link click on the fork icon
+<img src ="https://i.imgur.com/cEpFWuF.png" width = "496px height="66px">
 
 #### <b>user_token</b>:
 Paste in your discord account's user token. You can find instructions on this [here](https://www.youtube.com/watch?v=3W9tAEsK7RM) <br>
