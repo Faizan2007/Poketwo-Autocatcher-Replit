@@ -21,6 +21,7 @@ First goto this [url](https://replit.com/@faizannoushad/Poketwo-Autocatcher)
 
 #### <b>Running the bot</b>
 <p><img src="https://i.imgur.com/cEpFWuF.png" width="496px height=" /></br>Once you have opened the link click on the fork icon</p>
+You will then be prompted with a sign in message.Create an account if you dont have one else login.
 
 #### <b>channel_id</b>:
 This will allow the bot to use your preferred channel to spam as well as catch Pokétwo spawns. <br>
