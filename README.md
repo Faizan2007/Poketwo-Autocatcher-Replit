@@ -26,6 +26,8 @@ You will then be prompted with a sign in message.Create an account if you dont h
 #### Setting up the bot:
 Click on console</p>
 <img src="https://i.imgur.com/1Kh7oif.png" width="496px height=" /></p>
+OR</p>
+<img src="https://i.imgur.com/CsgLv0E.png" width="88px height=" /></p>
 After you've done the above, simply run the following command to start up your very own Pokétwo Autocatcher.</p>
 
 The command may vary depending on your operating system, so try:
