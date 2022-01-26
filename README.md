@@ -17,14 +17,14 @@ The bot has the following features:
 First goto this [url](https://replit.com/@faizannoushad/Poketwo-Autocatcher)
 
 #### <b>Forking the repl</b>
-Once you have opened the link click on the fork icon <img src="https://i.imgur.com/cEpFWuF.png" width="496px">
+Once you have opened the link click on the fork icon <br> <img src="https://i.imgur.com/cEpFWuF.png" width="496px"> <br>
 You will then be prompted with a sign in message.Create an account if you dont have one else login. <br>
 
 #### Setting up the bot:
-Click on console
-<img src="https://i.imgur.com/1Kh7oif.png" width="496px">
-OR
-<img src="https://i.imgur.com/CsgLv0E.png" width="88px">
+Click on console <br>
+<img src="https://i.imgur.com/1Kh7oif.png" width="496px"> <br>
+**or** <br>
+<img src="https://i.imgur.com/CsgLv0E.png" width="88px"> <br>
 After you've done the above, simply run the following command to start up your very own Pokétwo Autocatcher.
 
 The command may vary depending on your operating system, so try:
@@ -38,7 +38,7 @@ Enter the token by following this:
 This will allow the code to send messages from your account.It is advised to use a fresh new account for this purpose as this is risky and you might get banned.
 If you are a mobile user follow this [tutorial](https://www.youtube.com/watch?v=eMCSxtA4Vts)
 Else follow [this tutorial](https://www.youtube.com/watch?v=YEgFvgg7ZPI)
-Once you've got your discord token enter it in the console without the double quotaion marks from both sides<
+Once you've got your discord token enter it in the console without the double quotaion marks from both sides
 For example: O.ajewef.ewgtrgt.323e3r
 You will then be asked to enter channel id.This is simply to specify which channel you want to autocatch
 
@@ -49,37 +49,36 @@ Others follow [this](https://www.youtube.com/watch?v=YjiQ7CajAgg)
 Paste the channel id too into the console.And done you have completed setting up the bot
 
 #### Running the code
-Click on the run button,which may either look like this on mobile
-<img src="https://i.imgur.com/IMQF45D.png" width="77px">
-Or like this
-<img src="https://i.imgur.com/wrtzrnS.png" width="127px">
-And done, now you have it running
-> Remember,if you need any help with something, feel free to open a Github Issue.
+Click on the run button, which may either look like this on mobile <br>
+<img src="https://i.imgur.com/IMQF45D.png" width="77px"> <br>
+Or like this <br>
+<img src="https://i.imgur.com/wrtzrnS.png" width="127px"> <br>
+And done, now you have it running <br>
+> Remember,if you need any help with something, feel free to open a Github Issue. <br>
 
 ### Making it run 24/7
 Goto https://uptimerobot.com/ and create an account
-Then click "Create Monitor"
-<img src="https://i.imgur.com/xKmFaTL.png" width="158px">
-From the dropdown list select HTTPS
-<img src="https://i.imgur.com/ZZq0oij.png" width="435px">
-Then give it a name under friendly name
-Go back to repl and run your file
-Click on the web button on mobile
-<img src="https://i.imgur.com/nTn6Mxf.png" width="370px">
-If you're on any other device when you click run a window that looks like this will popup=
-<img src="https://i.imgur.com/LXX019x.png" width="360px">
-And copy the url from the address bar, if on mobile or on any other device.
-Go back to https://uptimerobot.com/
-And paste the url you copied here:
-<img src="https://i.imgur.com/0N8UiQc.png" width="513px">
-Now click create monitor
-<img src="https://i.imgur.com/XhQfuN5.png" width="145px">
-<b>Congrats, you're all done
-> If the bot stops working goto https://replit.com/repls and open the autocatcher stop it by clciking this button on mobile
-<img src="https://i.imgur.com/pkScV23.png" width="85px">
-And this on all other devices
-<img src="https://i.imgur.com/m7JDS2W.png" width="190px">
-Now click run again and you're good to go
+Then click "Create Monitor" <br>
+<img src="https://i.imgur.com/xKmFaTL.png" width="158px"> <br>
+From the dropdown list select HTTPS <br>
+<img src="https://i.imgur.com/ZZq0oij.png" width="435px"><br>
+Then give it a name under friendly name, go back to repl and run your file <br>
+Then, click on the web button on mobile <br>
+<img src="https://i.imgur.com/nTn6Mxf.png" width="370px"> <br>
+If you're on any other device when you click run a window that looks like this will popup: <br>
+<img src="https://i.imgur.com/LXX019x.png" width="360px"><br>
+And copy the url from the address bar, if on mobile or on any other device.<br>
+Go back to https://uptimerobot.com/ <br>
+And paste the url you copied here: <br>
+<img src="https://i.imgur.com/0N8UiQc.png" width="513px"> <br>
+Now click create monitor <br>
+<img src="https://i.imgur.com/XhQfuN5.png" width="145px"> <br>
+<b>Congrats, you're all done <br>
+> If the bot stops working goto https://replit.com/repls and open the autocatcher stop it by clciking this button on mobile <br>
+<img src="https://i.imgur.com/pkScV23.png" width="85px"> <br>
+And this on all other devices <br>
+<img src="https://i.imgur.com/m7JDS2W.png" width="190px"> <br>
+Now click run again and you're good to go <br>
 
 <h3 style="color:#f76767;">⚠️<b>Disclaimer</b>⚠️</h3>
 Please note that self botting is against Discord's Terms of Service and being discovered <br>
