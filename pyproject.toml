@@ -10,7 +10,7 @@ Flask = "^2.0.2"
 discord = "^1.7.3"
 discum = "^1.4.0"
 DateTime = "^4.3"
-aiohttp = "3.7.3"
+aiohttp = "3.7.4"
 
 [tool.poetry.dev-dependencies]
 
