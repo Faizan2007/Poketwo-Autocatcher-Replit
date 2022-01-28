@@ -38,8 +38,8 @@ def solve(message):
 
 def spam():
   while True:
-    num = random.randint(1, 1000000000000)
-    bot.sendMessage(channel_id, num)
+    hash = random.getrandbits(128)
+    bot.sendMessage(channel_id, hash)
     intervals = [2.0,2.1,2.2,2.3,2.4,2.5]
     time.sleep(random.choice(intervals))
 
@@ -74,7 +74,7 @@ def on_message(resp):
                     if 'wild pokémon has appeared!' in embed_title:
                         stop(spam_process)
                         time.sleep(2)
-                        bot.sendMessage(channel_id, 'p!h')
+                        bot.sendMessage(channel_id, '<@716390085896962058> h')
                     elif "Congratulations" in embed_title:
                         embed_content = m['embeds'][0]['description']
                         if 'now level' in embed_content:
@@ -83,7 +83,7 @@ def on_message(resp):
                             a = embed_content.count(' ')
                             level = int(split[a].replace('!', ''))
                             if level == 100:
-                                bot.sendMessage(channel_id, f"p!s {to_level}")
+                                bot.sendMessage(channel_id, f"<@716390085896962058> s {to_level}")
                                 with open('data/level.txt', 'r') as fi:
                                     data = fi.read().splitlines(True)
                                 with open('data/level.txt', 'w') as fo:
@@ -100,7 +100,7 @@ def on_message(resp):
                             for i in solve(content):
                                 stop(spam_process)
                                 time.sleep(2)
-                                bot.sendMessage(channel_id, f'p!c {i}')
+                                bot.sendMessage(channel_id, f'<@716390085896962058> c {i}')
                         time.sleep(2)
                         spam_process = start_spam()
 
@@ -131,7 +131,7 @@ def on_message(resp):
                         stop(spam_process)
                         log('Captcha Detected; Autocatcher Paused. Press enter to restart.')
                         input()
-                        bot.sendMessage(channel_id, 'p!h')
+                        bot.sendMessage(channel_id, '<@716390085896962058> h')
 
 if __name__ == '__main__':
     print(f'Pokétwo Autocatcher {version}\nA FOSS Pokétwo autocatcher\nEvent Log:')
